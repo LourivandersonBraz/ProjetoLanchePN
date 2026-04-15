@@ -281,8 +281,8 @@ header nav ul li:hover::after {
 .circle:nth-child(2) {
     top: 60%;
     left: 80%;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 }
 
 .circle:nth-child(3) {
