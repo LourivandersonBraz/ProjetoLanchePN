@@ -150,18 +150,18 @@ header nav ul li:hover::after {
     font-family: "Orbitron", sans-serif;
     line-height: 1.1;
     text-transform: uppercase;
-    color: #020708;
+    color: #2a2a2b;
     font-weight: 600;
     letter-spacing: 2px;
     margin-bottom: 20px;
-    text-shadow: 0 0 20px rgba(10, 10, 10, 0.8);
+    text-shadow: 0 0 20px rgba(32, 32, 32, 0.8);
     margin: center;
 }
 
 .description {
     font-size: 1.2rem;
     color: #000000;
-    line-height: 1.5;
+    line-height: 1.8;
     margin-bottom: 30px;
     max-width: 600px;
     text-align: center;
